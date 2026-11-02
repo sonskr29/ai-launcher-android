@@ -16,7 +16,7 @@ val launcherName: String = runCatching {
 
 android {
     namespace = "io.github.medtahiri.launcher"
-    compileSdk = 37
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "io.github.medtahiri.launcher"
